@@ -123,7 +123,7 @@ RAG_DATA_DIR=./data
 
 CHUNK_LENGTH=500
 
-SERVER_PORT=8001
+SERVER_PORT=8000
 ```
 
 ---
@@ -161,13 +161,13 @@ uvicorn main:app --reload
 The API will be available at:
 
 ```
-http://127.0.0.1:8001
+http://127.0.0.1:8000
 ```
 
 Swagger documentation:
 
 ```
-http://127.0.0.1:8001/docs
+http://127.0.0.1:8000/docs
 ```
 
 ---
