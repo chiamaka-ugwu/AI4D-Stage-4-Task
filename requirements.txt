@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+sentence-transformers
+chromadb
+google-generativeai
+huggingface_hub
+python-multipart
+PyPDF2
+python-docx
